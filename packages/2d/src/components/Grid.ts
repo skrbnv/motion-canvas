@@ -39,6 +39,7 @@ export interface GridProps extends ShapeProps {
  *       ref={grid}
  *       width={'100%'}
  *       height={'100%'}
+ *       spacing={80}
  *       stroke={'#666'}
  *       start={0}
  *       end={1}
